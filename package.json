@@ -1,0 +1,28 @@
+{
+  "name": "datavisualization",
+  "version": "0.0.1",
+  "description": "Data visualization for RU Racing Röss kör",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RU-Racing-Team/DataVisualization.git"
+  },
+  "keywords": [
+    "Graphs",
+    "LoRa",
+    "Racing",
+    "Datalogging"
+  ],
+  "author": "SteinziVtec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RU-Racing-Team/DataVisualization/issues"
+  },
+  "homepage": "https://github.com/RU-Racing-Team/DataVisualization#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
